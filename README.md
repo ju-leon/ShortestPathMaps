@@ -12,6 +12,8 @@ To test it yourself, follow `ShortestPaths.ipynb`.
 
 I recommend using Google Colab since computations may take a while.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ju-leon/ShortestPathMaps/blob/main/ShortestPaths.ipynb)
+
 ## Examples
 
 ![munich](figures/munich.png)
